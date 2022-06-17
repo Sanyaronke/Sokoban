@@ -17,9 +17,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.game.Sokoban.SokobanGame" android:label="app_name">
+        <activity android:name="com.game.Sokoban.GameOption" android:label="app_name">
         </activity>
-        <activity android:name="com.game.Sokoban.SokobanScores" android:label="Sokoban High Scores">
+        <activity android:name="com.game.Sokoban.PlayerScore" android:label="Sokoban High Scores">
         </activity>
     </application>
 

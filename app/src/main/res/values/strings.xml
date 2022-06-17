@@ -8,4 +8,7 @@
     <string name="skip_level">Skip Level</string>
     <string name="win_level">Back to menu</string>
     <string name="begin">Ready to begin ?</string>
+    <string name="moves">moves</string>
+    <string name="lvl">Level</string>
+    <string name="bstScore">Best Score</string>
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/retry_level"
+    android:title="@string/retry_level" />
+  <item android:id="@+id/skip_level"
+    android:title="@string/skip_level" />
+  <item
+      android:id="@+id/win_level"
+      android:title="@string/win_level" />
+</menu>
